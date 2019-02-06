@@ -13,3 +13,11 @@ node liri-node spotify-this-song "song title here"
 node liri-node do-what-it-says
   
 Thank You and Have Fun!
+
+Screenshots below:
+
+<img src="https://github.com/mikedandan/liri-node-app/blob/master/images/liri-node-do-what-it-says.PNG">
+<img src="https://github.com/mikedandan/liri-node-app/blob/master/images/liri-node-movie-this.PNG">
+<img src="https://github.com/mikedandan/liri-node-app/blob/master/images/liri-node-spotify-this-song.PNG">
+
+
